@@ -29,9 +29,48 @@ html, body {
         }
 
 
+
+
+
      .target {
-      color: #000000;
+      color: #8b8bcd;
+      font-size: 24px;
+      line-height: 1.55em;
+    text-align: center;
+    font-weight: 50;
+    margin: 0;
      }   
+
+
+     .title {
+    font-size: 32px;
+   }
+
+   .subtitle {
+    font-size: 18px;
+    color: #FF9800;
+   }
+
+   .subtitle span {
+    color: #FF9800;
+   }
+
+     h1.target {
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+}
+
+h2.target a {
+  text-decoration: underline;
+  /*font-size: 19px;*/
+}
+
+p {
+
+  line-height: 1.6666em;
+  padding: 5px;
+}
 
 
 body {
@@ -47,12 +86,12 @@ body {
 
 
 a {
-    color: black;
+    color:  #8b8bcd;
     text-decoration: none;
 }
 
 a:hover {
-  color: red;
+  color:  #7B68EE;
 }
 
 

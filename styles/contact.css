@@ -27,9 +27,7 @@ html, body {
         }
 
 
-      .target {
-      color: #000000;
-     }   
+     
 
 
 body {
@@ -44,20 +42,23 @@ body {
 }
 
 
-.target {
-      color: #000000;
-     }   
+
 
 
 a {
-    color: black;
+    color: #8b8bcd;
     text-decoration: none;
 }
 
 
 a:hover {
-  color: red;
+  color: #7B68EE;
 }
+
+
+.target {
+      color: #8b8bcd;
+     }   
 
 
 .imageWrap {
