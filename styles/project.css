@@ -52,7 +52,7 @@ a:hover {
 
 a.button {
     background: #a793c1;
-    padding: 0.75em 1em;
+    padding: 0.28em 1em;
     color: #fff;
     font-weight: 600;
     border-radius:0.3em;
@@ -60,20 +60,18 @@ a.button {
 a.button:hover {
   background:#000;
 }
-
-
 .target {
   color: #8b8bcd;
 }
 
 
-.btn-light:hover {
-  /*cursor: pointer;
+/*.btn-light:hover {
+  cursor: pointer;
   color: #ffffff;
   background-color: #063B67;
-  border: 2px solid #063B67;*/
+  border: 2px solid #063B67;
   background:#000;
-}
+}*/
 
 img {
     border-radius: 0.5em;
@@ -100,13 +98,13 @@ img {
 
 
 
- button[type='submit'] {
+ /*button[type='submit'] {
    background: #a793c1;
     padding: 0.75em 1em;
     color: #fff;
     font-weight: 600;
     border-radius:0.3em;
-  /*  color: white;
+    color: white;
     background: #000000;
     border: 0;
     width: 75pxS;
@@ -117,11 +115,11 @@ img {
     cursor: pointer;
     margin-bottom: 0;
     height: auto;
-    /*margin-right: 15px;*/
+    /*margin-right: 15px;
    /* margin: 5px;
     padding: 5px;*/
 }
-
+/**/
 
 /*input[type="button"] {
   color: white;
