@@ -57,13 +57,15 @@ a:hover {
 
 a.button {
     background: #a793c1;
-    padding: 0.28em 1em;
+    padding: 0.7em 1.75em;
     color: #fff;
     font-weight: 600;
-    border-radius:0.3em;
+    border-radius: 0.3em;
+
 }
 a.button:hover {
-  background:#000;
+  /*background:#000;*/
+   background: #A181CA;
 }
 .target {
   color: #8b8bcd;

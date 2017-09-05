@@ -48,15 +48,15 @@ html, body {
 
    .subtitle {
     font-size: 18px;
-    color: #FF9800;
+    color: #a9a9a9;
    }
 
    .subtitle span {
-    color: #FF9800;
+    color: #a9a9a9;
    }
 
      h1.target {
-    font-weight: 600;
+    font-weight: 300;
     margin: 0;
     padding: 0;
 }
@@ -67,7 +67,7 @@ h2.target a {
 }
 
 p {
-
+  font-size: 1.35em;
   line-height: 1.6666em;
   padding: 5px;
 }
@@ -92,6 +92,11 @@ a {
 
 a:hover {
   color:  #7B68EE;
+}
+
+img {
+
+   box-shadow: 0 18px 35px rgba(50,50,93,.3), 0 8px 15px rgba(0,0,0,.2);
 }
 
 

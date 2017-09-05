@@ -52,13 +52,22 @@ a {
 
 
 a:hover {
-  color: #7B68EE;
+  color: #A181CA;
+
 }
+
+/*h2.free a {
+  text-decoration: underline;
+}*/
 
 
 .target {
       color: #8b8bcd;
-     }   
+     } 
+
+     /*.class {
+      color: #8b8bcd !important; 
+     }  */
 
 
 .imageWrap {
@@ -69,12 +78,24 @@ a:hover {
     width: 400px;
     margin: 0 auto;
     line-height: 24px;
+    /*color: #8b8bcd;*/
+     text-align: center;
 }
+
+ .cool {
+  color: #555;
+ }
 
 .img-container {
   position: relative;
   width: 100%;
 }
+
+/*.class {
+
+  background: #A181CA;
+}*/
+
 
 
 
