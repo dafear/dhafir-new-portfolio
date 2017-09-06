@@ -12,16 +12,23 @@ html, body {
 
 .header {
         margin-bottom: 2em;
-            text-align: right;
+            /*text-align: right;*/
         }
         .f-nav {
-            border-top: 1px solid #808080;
+          /*  border-top: 1px solid #808080;*/
             margin: 0 -1em;
         }
+
+           .f-nav li {
+      display: inline-block;
+     /* margin-bottom: 200px;*/
+     position: relative;
+     bottom: 20px;
+     }
         .f-nav li a {
-            display: block;
+           /* display: block;*/
             padding: 0.8em 1em;
-            border-bottom: 1px solid #808080;
+           /* border-bottom: 1px solid #808080;*/
             font-size: 20px;
             /*color: #000000;*/
         }
@@ -160,7 +167,7 @@ input[type="button"] {
                 display: none;
             }
             .f-nav {
-                position: absolute;
+               /* position: absolute;*/
                 top: 0;
                 left: 0;
                 border: 0;
